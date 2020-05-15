@@ -37,6 +37,7 @@ equivalent to the assignment above:
 
         # Vector with numerics from 1 up to 10
           my_vector <- 1:10 
+		  my_vector2 <- 1:10 
 
         # Matrix with numerics from 1 up to 9
           my_matrix <- matrix(1:9, ncol = 3)
